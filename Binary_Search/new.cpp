@@ -3,6 +3,24 @@ using namespace std;
 //just a small commit
 // Another small commit
 //maybe another one
+//just a small commit
+// Another small commit
+//maybe another one
+//just a small commit
+// Another small commit
+//maybe another one
+//just a small commit
+// Another small commit
+//maybe another one
+//just a small commit
+// Another small commit
+//maybe another one
+//just a small commit
+// Another small commit
+//maybe another one
+//just a small commit
+// Another small commit
+//maybe another one
 int main() {
     int arr[] = {1, 2, 3, 4, 5,8, 12};
     int left = 0;
