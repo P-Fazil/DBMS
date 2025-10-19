@@ -1,6 +1,7 @@
 #include <iostream>
 #include <vector>
 using namespace std;
+// Man Such a hassle to solve problems wtf bro.
 int countOccurrences(const vector<int> &arr, int target)
 {
     int first = -1;
