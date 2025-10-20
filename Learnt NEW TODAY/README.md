@@ -4,3 +4,6 @@
 # I want my github to look appealing like full of commits and shit.
 # Thats why this random commits everyday.
 # Anyway covered some problems using unordered_map and unordered_set
+# I didn't want to write anything today but did it anyway
+# Only solved 2 questions on leetcode tf.
+# But Kept my streak.
